@@ -1,0 +1,11 @@
+tasks:
+  Order A Bot In A Website Form:
+    robotTaskName: Order A Bot In A Website Form
+condaConfigFile: conda.yaml
+ignoreFiles:
+- .gitignore
+artifactsDir: output
+PATH:
+- .
+PYTHONPATH:
+- .
